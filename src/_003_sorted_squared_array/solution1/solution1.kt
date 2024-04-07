@@ -1,4 +1,4 @@
-package _003_sorted_squared_array._solution1
+package _003_sorted_squared_array.solution1
 
 // Time: O(n*log(n))
 // Space: O(n)

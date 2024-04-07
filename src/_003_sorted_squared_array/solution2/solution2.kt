@@ -1,4 +1,4 @@
-package _003_sorted_squared_array._solution2
+package _003_sorted_squared_array.solution2
 
 import kotlin.math.absoluteValue
 
