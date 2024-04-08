@@ -1,4 +1,4 @@
-package _002_validate_subsequence.solution1.solution1
+package _002_validate_subsequence.solution1
 
 /**
 Time Complexity

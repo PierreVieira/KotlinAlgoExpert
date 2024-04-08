@@ -1,4 +1,4 @@
-package _002_validate_subsequence.solution1.solution2
+package _002_validate_subsequence.solution2
 
 // Time: O(n)
 // Space: O(1)
